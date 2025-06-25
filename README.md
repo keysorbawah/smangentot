@@ -1,2 +1,1 @@
-# smangentot
-smangentot
+# [smangentot](https://smangentot.pages.dev)
